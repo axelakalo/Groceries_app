@@ -2,6 +2,8 @@
 
 A PWA for a household (2 people) to share a grocery list and track pantry expiration dates. Mobile-first, dark theme, blue accent.
 
+Personal grocery and pantry app for shared household use.
+
 ## Quick Start
 
 ### Prerequisites
