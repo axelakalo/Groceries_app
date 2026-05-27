@@ -1,0 +1,14 @@
+[functions.lookup-product]
+verify_jwt = true
+
+[functions.create-manual-product]
+verify_jwt = true
+
+[functions.create-household-invite]
+verify_jwt = true
+
+[functions.accept-household-invite]
+verify_jwt = true
+
+[functions.send-expiration-reminders]
+verify_jwt = false
